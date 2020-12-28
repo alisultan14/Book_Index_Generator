@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The project basically investigates how different data containers like ArrayList,
+HashMap, and TreeMap work. This is done by reading from text format books and
+creating an Index (containing all the words followed by the list of line numbers they
+appear in ) of these books. We measure the time it takes to create the index and the
+time it takes to write it to the output file for each of these data structures through
+analysis of multiple runtime experiments.
