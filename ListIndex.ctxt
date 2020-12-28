@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ListIndex
+comment0.text=\n\ Class\ to\ create\ the\ index\ of\ a\ book\ using\ an\ arrayList\ of\ Strings\n\ @author\ Ali\ Sultan\n
+comment1.params=
+comment1.target=ListIndex()
+comment1.text=7\n\ Constructor\n
+comment2.params=dict\ wordSearched
+comment2.target=boolean\ searchDict(java.util.ArrayList,\ java.lang.String)
+comment2.text=\n\ search\ the\ dictionary\ of\ words\n\ @return\ true\ if\ the\ word\ has\ been\ found\n\ return\ false\ otherwise\n
+comment3.params=NewWord\ linenum
+comment3.target=void\ addIndex(java.lang.String,\ int)
+comment3.text=\n\ @param\ the\ word\ to\ be\ added\ and\ the\ line\ number\ on\ which\ it\ is\ found\n
+comment4.params=
+comment4.target=int\ SizeSort()
+comment4.text=\n\ @return\ the\ size\ of\ the\ index\ currently\n\ no\ sorting\ required\n
+comment5.params=n
+comment5.target=java.lang.String\ toString(int)
+comment5.text=\n\ @\ return\ the\ index\ information,\ the\ word\ and\ the\ set\ on\ lines\ associated\ with\ it\n
+numComments=6

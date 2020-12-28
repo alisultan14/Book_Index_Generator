@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TreeIndexTest
+comment0.text=\n\ The\ test\ class\ TreeIndexTest.\n\ @author\ \ Ali\ Sultan\n
+comment1.params=
+comment1.target=void\ testdictionary()
+comment1.text=\n\ Test\ Case\ to\ search\ from\ dictionary\ method\n\ Normal\n
+comment2.params=
+comment2.target=void\ testdictionary1()
+comment2.text=\n\ Test\ Case\ to\ search\ from\ dictionary\ method\n\ Boundary\n
+comment3.params=
+comment3.target=void\ testaddindex()
+comment3.text=\n\ Test\ Case\ to\ addIndex\n\ Normal\n
+comment4.params=
+comment4.target=void\ testsizeSort()
+comment4.text=\n\ Test\ Case\ to\ addIndex\n\ Normal\n
+comment5.params=
+comment5.target=void\ testsizeSort1()
+comment5.text=\n\ Test\ Case\ to\ addIndex\n\ Boundary\n
+comment6.params=
+comment6.target=void\ testtoString()
+comment6.text=\n\ Test\ Case\ toString\ \n\ Normal\n
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IndexTester
+comment0.text=\n\ IndexTester\ that\ for\ different\ types\ of\ Indexes\ writes\ them\ into\ an\ output\ file\n\ @author\ Ali\ Sultan\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Method\ to\ test\ the\ three\ types\ of\ indexes\n\ Creates\ a\ file\ called\ out\ and\ writes\ the\ index\ to\ it\n
+numComments=2
